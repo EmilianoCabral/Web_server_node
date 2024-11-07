@@ -1,0 +1,153 @@
+[
+    {
+        "id": "Samsung1",
+        "modelo": "Galaxy S21",
+        "imagen": "./img/samsung/s-21-1.jpg",
+        "categoria": {
+            "nombre": "Samsung",
+            "id": "Samsung"
+        },
+        "precio": 799.99
+    },
+    {
+        "id": "Samsung2",
+        "modelo": "Galaxy Note 20",
+        "imagen":"./img/samsung/galaxy-note-20-2.jpg",
+        "bateria": "4300 mAh",
+        "categoria": {
+            "nombre": "Samsung",
+            "id": "Samsung"
+        },
+        "precio": 899.99
+    },
+    {
+        "id": "Samsung3",
+        "modelo": "Galaxy A52",
+        "imagen":"./img/samsung/A-52-2--(1).jpg",
+        "categoria": {
+            "nombre": "Samsung",
+            "id": "Samsung"
+        },
+        "precio": 349.99
+    },
+    {
+        "id": "Samsung4",
+        "modelo": "Galaxy S20 FE",
+        "imagen":"./img/samsung/s-20fe-1-(1).jpg",
+        "categoria": {
+            "nombre": "Samsung",
+            "id": "Samsung"
+        },
+        "precio": 699.99
+    },
+    {
+        "id": "Samsung5",
+        "modelo": "Galaxy Z Fold 3",
+        "imagen":"./img/samsung/samsung-galaxy-z-fold4.jpg",
+        "categoria": {
+            "nombre": "Samsung",
+            "id": "Samsung"
+        },
+        "precio": 1799.99
+    },
+    {
+        "id":"iphone1",
+        "modelo": "iPhone 13",
+        "imagen":"./img/iphone/iphone-13-2-(1).jpg",
+        "categoria": {
+            "nombre": "iphone",
+            "id": "iphone"
+        },
+        "precio": 699.99
+    },
+    {
+        "id":"iphone2",
+        "modelo": "iPhone 13 Pro",
+        "imagen":"./img/iphone/iphone-13-pro-1-(1).jpg",
+        "categoria": {
+            "nombre": "iphone",
+            "id": "iphone"
+        },
+        "precio": 999.99
+    },
+    {
+        "id":"iphone3",
+        "modelo": "iPhone SE (2da generación)",
+        "imagen":"./img/iphone/iphone-se-2-(1).jpg",
+        "categoria": {
+            "nombre": "iphone",
+            "id": "iphone"
+        },
+        "precio": 399.99
+    },
+    {
+        "id":"iphone4",
+        "modelo": "iPhone 13 Mini",
+        "imagen":"./img/iphone/iphone-13-mini-2-(1).jpg",
+        "categoria": {
+            "nombre": "iphone",
+            "id": "iphone"
+        },
+        "precio": 699.99
+    },
+    {
+        "id":"iphone5",
+        "modelo": "iPhone 13 Pro Max",
+        "imagen":"./img/iphone/iphone-13-promax-(1).jpg",
+        "categoria": {
+            "nombre": "iphone",
+            "id": "iphone"
+        },
+        "precio": 1099.99
+    },
+    {
+        "id":"motorola1",
+        "modelo": "Motorola Moto G Power (2022)",
+        "imagen":"./img/motorola/motog-power-(1).jpg",
+        "categoria": {
+            "nombre": "motorola",
+            "id": "motorola"
+        },
+        "precio": 249.99
+    },
+    {
+        "id":"motorola2",
+        "modelo": "Motorola Moto G Stylus (2022)",
+        "imagen":"./img/motorola/motog-stylus-(1).jpg",
+        "categoria": {
+            "nombre": "motorola",
+            "id": "motorola"
+        },
+        "precio": 299.99
+    },
+    {
+        "id":"motorola3",
+        "modelo": "Motorola Edge (2021)",
+        "imagen":"./img/motorola/moto-edge-21-(1).jpg",
+        "categoria": {
+            "nombre": "motorola",
+            "id": "motorola"
+        },
+        "precio": 699.99
+    },
+    {
+        "id":"motorola4",
+        "modelo": "Motorola One 5G Ace",
+        "imagen":"./img/motorola/moto-one-(1).jpg",
+        "categoria": {
+            "nombre": "motorola",
+            "id": "motorola"
+        },
+        "precio": 349.99
+    },
+    {
+        "id":"motorola5",
+        "modelo": "Motorola Razr 5G",
+        "imagen":"./img/motorola/moto-razr-(1).jpg",
+        "categoria": {
+            "nombre": "motorola",
+            "id": "motorola"
+        },
+        "precio": 1399.99
+    }
+]
