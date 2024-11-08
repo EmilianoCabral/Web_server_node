@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "web server",
   "main": "src/app.js",
+  "type": "module",
   "scripts": {
     "dev": "nodemon src/app.js"
   },

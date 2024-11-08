@@ -1,7 +1,10 @@
-const express = require("express");
-const path = require("path");
+//const express = require("express");
+import express from "express";
 
-const startServer = (option) => {
+//const path = require("path");
+import path from "path";
+
+export const startServer = (option) => {
   const { port, public_path = "public" } = option;
   const app = express()
 
@@ -10,7 +13,7 @@ const startServer = (option) => {
 
     //peticion para devolver la web
   app.get('*',(req,res) => {
-    const indexPath = path.join(__dirname + `../../../${public-path}/index.html`)
+    const indexPath = path.join(__dirname + `../../../${public_path}/index.html`)
     res.sendFile(indexPath)
   })
     //para poder escuchar al navegador atra vez de una url poder devolver la pagina
@@ -18,7 +21,3 @@ const startServer = (option) => {
     console.log(`escuchando desde el puerto ${port}`)
   })
 };
-
-module.exports = {
-    startServer
-}
